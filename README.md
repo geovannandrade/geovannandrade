@@ -1,2 +1,2 @@
 # Quem sou eu:
-eu sou a geovanna estou iniciando aqui
+Eu sou a **Geovanna** estou iniciando aqui
